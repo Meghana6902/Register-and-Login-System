@@ -53,7 +53,7 @@ void Login()
 int cnt=0;
 string Username,Password,Mobile_No,userId,pin,mobile_no;
 system("cls");
-cout<<" Enter the Username and Password"<<endl;//User has to login using username and password
+cout<<" Enter the Username and Password"<<endl;  //User has to login using username and password
 cout<<" Enter USERNAME: ";
 cin>>userId;
 cout<<" Enter PASSWORD: ";
